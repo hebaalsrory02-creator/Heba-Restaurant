@@ -1,9 +1,10 @@
 # Heba-Restaurant
 Foods 
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="ar">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Food Store</title>
     <style>
         body {
@@ -106,7 +107,7 @@ Foods
 
         <div class="card">
 
-            <img src="images/beef burgar.jpg" alt="">
+            <img src="images/beef-burgar.jpg" alt="">
             <h3>برجر لحم</h3>
             <p class="price">25 ريال</p>
             <button>اطلب الآن</button>
@@ -120,14 +121,14 @@ Foods
         </div>
 
         <div class="card">
-            <img src="images/French fries.jpg" alt="">
+            <img src="images/french-fries.jpg" alt="">
             <h3>بطاطس مقلية</h3>
             <p class="price">10 ريال</p>
             <button>اطلب الآن</button>
         </div>
 
         <div class="card">
-            <img src="images/orange juice.jpg" alt="">
+            <img src="images/orange-juice.jpg" alt="">
             <h3>عصير برتقال</h3>
             <p class="price">12 ريال</p>
             <button>اطلب الآن</button>
@@ -137,7 +138,7 @@ Foods
 </div>
 
 <footer>
-    <p> للتواصل :0538629411   </p>
+    <p> للتواصل معنا :0538629411   </p>
 </footer>
 
 </body>
